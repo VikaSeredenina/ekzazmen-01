@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url(fon2.jpg);
+    background-repeat: no-repeat repeat;
+    background-size: 100%;
+}
+
+    body p {
+        width: 400px;
+        border: 5px solid PowderBlue;
+        outline: 5px solid MediumBlue;
+        padding: 2%;
+        background-color: #00BFFF;
+        margin-right: 30vw;
+    }
+
+.task {
+    float: right;
+    margin-left: 10vw;
+}
+
+.header {
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
